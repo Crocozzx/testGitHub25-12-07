@@ -20,7 +20,7 @@
     </parent>
 
     <groupId>com.offcn</groupId>
-    <artifactId>omall-parent-2</artifactId>
+    <artifactId>omall-parent-4</artifactId>
     <version>1.0</version>
     <!--父工程-->
     <packaging>pom</packaging>
